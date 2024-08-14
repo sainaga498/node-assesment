@@ -1,0 +1,25 @@
+{
+  "name": "node_assesment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.2",
+    "node-schedule": "^2.1.1",
+    "os-utils": "^0.0.14"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
